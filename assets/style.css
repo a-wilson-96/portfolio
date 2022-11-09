@@ -1,0 +1,115 @@
+* {
+  background-color: rgb(190, 189, 189);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+header {
+  position: fixed;
+  background-color: aqua;
+  padding: .25rem;
+  border-bottom: solid black;
+  border-right: solid black;
+}
+
+
+footer {
+  text-align: center;
+  background-color: aqua;
+  padding: .25rem;
+  padding-right: 2rem;
+  border-top: solid black;
+  font-size: 2rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+}
+
+h1,
+h2 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  background-color: aqua;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+div {
+  background-color: aqua;
+}
+h2 {
+  font-size: 1.5rem;
+}
+
+h5 {
+  padding-top: 5.5rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  font-size:2.5rem;
+}
+
+h3 {
+  font-size: 1rem;
+  color:darkblue;
+  padding-right: .5rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: right;
+  background-color: aqua;
+}
+
+h4 {
+  padding-top: 5.5rem;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 2rem;
+}
+
+a {
+  background-color: aqua;
+}
+
+.my-image {
+  padding-top: 5.5rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  width: auto;
+  max-width: 50%;
+  max-height: 50%;
+}
+
+.big-image {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+    max-width: 54rem; 
+    max-height: 54rem;
+  max-width: 50%;
+    height: auto;
+}
+
+p {
+  padding-top: 3rem;
+  margin: auto;
+  font-size: 1.5rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: left;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.image-box {
+  background-color: black;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  height: 15rem;
+  width: 75rem;
+  max-width: 32%;
+  max-height: 32%;
+}
